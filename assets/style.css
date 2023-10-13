@@ -1,0 +1,21 @@
+/* contoh tag selector */
+body{
+    background-color: rgb(11, 233, 22);
+}
+nav{
+    background-color: rgb(240, 14, 100);
+}
+/* contoh class selector */
+.header{
+    background-color: rgba(22, 145, 216, 0.37);
+}
+.judul1{
+    color: rgb(248, 9, 157);
+    font-size: 40px;
+}
+.judul2{
+    color: blueviolet;
+    font-size: 100px; /*merubah ukuran font*/
+    font-family: fantasy; /*merubah gaya font*/
+    text-shadow: 10px 5px red; /*shadow text*/
+}
