@@ -1,28 +1,7 @@
 *{
     margin: 0;
 }
-body{
-    background-image: url(image/background-3d-keren.webp);
-    background-size: cover;
-}
-/* navbar */
-nav{
-    background-color: rgb(61, 21, 240);
-    width: 100%;
-    position: fixed;
-    height: 60px;
-}
-nav ul{
-    list-style: none;
-}
-nav li{
-    float: left;
-    padding: 20px 8px;
-    color: white;
-}
-nav li:hover{
-    color: black;
-}
+
 /* header */
 .header{
     background-color: rgb(2, 2, 44);
